@@ -13,3 +13,5 @@ function persistence(num) {
 
   return count;
 }
+
+console.log(persistence(4));
