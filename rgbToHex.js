@@ -9,5 +9,5 @@ const rgbToHex = num => {
   let hex = num.toString(16);
   return hex.length === 1 ? ('0' + hex).toUpperCase() : hex.toUpperCase();
 }
-
+ 
 console.log(rgb(300,255,255));
