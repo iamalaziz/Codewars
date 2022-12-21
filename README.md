@@ -1,6 +1,6 @@
-# Codewars
+# Codewars <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="codewars-icon" width={"30px"}/>
 
-<img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="codewars-icon" width={"30px"} style={{text-align: "center"}}/>
+
 
 My solutions for Codewars Kata questions
 
