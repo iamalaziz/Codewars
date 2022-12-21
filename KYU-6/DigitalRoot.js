@@ -10,5 +10,3 @@ const sumOfDigits = (num) => {
 }
 
 console.log(sumOfDigits(23451));
-
-// Runtime: 782ms 
