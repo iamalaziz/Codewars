@@ -30,3 +30,4 @@ My solutions for Codewars Kata questions
 | 3   | [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082) |    [Javascript](./KYU-6/TwoSum.js)    | KYU 6       |
 | 2   | [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196) |    [Javascript](./KYU-6/CamelCase.js)    | KYU 6       |
 | 1   | [Cats and shelves](https://www.codewars.com/kata/62c93765cef6f10030dfa92b) |    [Javascript](./KYU-7/CatsAndShelves.js)    | KYU 7       |
+| 0   | [Cat years, Dog years](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | [Javascript](./KYU-8/HumanCatDog.js) | KYU 8
