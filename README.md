@@ -1,16 +1,8 @@
-# Codewars <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="codewars-icon" width="30"/>
-
-
-
-My solutions for Codewars Kata questions
+Solutions for Codewars Kata questions
 
 
 | #   | Title(Source Link)                                                                                                                                                          | Solution                                                    | Difficulty |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------- |
-|    | []() |    [Javascript](./KYU-)    | KYU        |
-|    | []() |    [Javascript](./KYU-)    | KYU        |
-|    | []() |    [Javascript](./KYU-)    | KYU        |
-|    | []() |    [Javascript](./KYU-)    | KYU        |
 | 19   | [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370) |    [Javascript](./KYU-4/SumStrAsNums.js)    | KYU 4       |
 | 18   | [Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e) |    [Javascript](./KYU-5/PrimeDecomposition.js)    | KYU 5       |
 | 17   | [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39) |    [Javascript](./KYU-5/CalcWithFunctions2.js)    | KYU 5       |
